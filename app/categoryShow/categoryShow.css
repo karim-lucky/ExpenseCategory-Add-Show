@@ -1,0 +1,94 @@
+
+
+
+@media (max-width: 855px) {
+  .myTable {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .myTable th, .myTable td {
+    display: inline-block;
+    min-width: 150px; /* Adjust as needed */
+  }
+}
+
+@media(max-width:1100px){
+  .first{
+    display: block !important;
+    width: 130% !important;
+    
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+    
+  }
+}
+
+
+.catrgoryDivMain{
+    background-color: whitesmoke;
+}
+
+.catrgoryDivMain .catrgoryDivMain-2{
+  width: 98%;
+  margin: auto !important;
+}
+.leftName{
+  width: 38%;
+ }
+ .rightInputs{
+  width: 60%;
+ }
+ .star{
+  color: red;
+ }
+ 
+
+.myTable {
+  font-size: 14px;
+
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.myTable th, .myTable td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+
+
+
+
+.catrgoryDivMain{
+  background-color: whitesmoke;
+}
+
+.catrgoryDivMain .catrgoryDivMain-2{
+width: 98%;
+margin: auto !important;
+}
+.leftName{
+width: 38%;
+}
+.rightInputs{
+width: 60%;
+}
+.star{
+color: red;
+}
+.arroricon{
+  font-size: 50px;
+  color: black;
+}
+ 
+
+
+
+
+
+
+
+/* style={{ width: "98%", margin: "auto" }} */
